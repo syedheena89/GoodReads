@@ -1,0 +1,14 @@
+.wrapper {
+  background-color: #fff;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+}
+
+.author {
+  color: #888;
+  font-size: 24px;
+}
+/* .img-fluid{
+  width: 300px !important;
+} */
